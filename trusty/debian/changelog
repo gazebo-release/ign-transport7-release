@@ -1,0 +1,5 @@
+ignition-transport (0.3.0-1~trusty) trusty; urgency=low
+
+  * ignition-transport 0.3.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 12 Aug 2014 19:23:10 +0200
