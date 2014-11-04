@@ -12,8 +12,7 @@ Build-Depends: cmake,
                libprotobuf-dev,
                protobuf-compiler,
                uuid-dev,
-               libzmq3-dev (>= 3.0.0),
-               libczmq-dev (>= 2.0.0)
+               libzmq3-dev (>= 3.0.0)
 Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-transport-release
 Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-transport-release
 Homepage: https://bitbucket.org/ignitionrobotics/ign-transport
@@ -32,7 +31,6 @@ Section: libdevel
 Depends: libignition-transport0 (= ${binary:Version}),
          uuid-dev,
          libzmq3-dev (>= 3.0.0),
-         libczmq-dev (>= 2.0.0),
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Development files
