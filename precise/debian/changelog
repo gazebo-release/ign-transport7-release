@@ -1,3 +1,9 @@
+ignition-transport (0.8.0-1~precise) precise; urgency=medium
+
+  * ignition-transport 0.8.0-1 release
+
+ -- Carlos Agüero <caguero@osrfoundation.org>  Tue, 31 Mar 2015 14:23:25 -0700
+
 ignition-transport (0.7.0-1~precise) precise; urgency=medium
 
   * ignition-transport 0.7.0-1 release
