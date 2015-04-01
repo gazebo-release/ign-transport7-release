@@ -1,3 +1,9 @@
+ignition-transport (0.8.0-2~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.8.0-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 01 Apr 2015 14:00:22 +0200
+
 ignition-transport (0.8.0-1~trusty) trusty; urgency=medium
 
   * ignition-transport 0.8.0-1 release
