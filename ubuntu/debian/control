@@ -25,6 +25,14 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Transport Library - Shared library
 
+Package: libignition-transport-dev
+Depends: libignition-transport0-dev, ${misc:Depends}
+Architecture: all
+Priority: extra
+Section: oldlibs
+Description: transitional dummy package
+This is a transitional dummy package. It can safely be removed.
+
 Package: libignition-transport0-dev
 Architecture: any
 Section: libdevel
@@ -32,6 +40,8 @@ Depends: libignition-transport0 (= ${binary:Version}),
          uuid-dev,
          libzmq3-dev (>= 3.0.0),
          ${misc:Depends}
+Replaces: libignition-transport-dev (<< 0.9.0)
+Breaks: libignition-transport-dev (<< 0.9.0)
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Development files
 
