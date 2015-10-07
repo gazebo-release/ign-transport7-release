@@ -1,0 +1,83 @@
+ignition-transport (0.8.1-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.8.1-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 02 Apr 2015 01:43:15 +0200
+
+ignition-transport (0.8.0-3~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.8.0-3 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 01 Apr 2015 16:31:04 +0200
+
+ignition-transport (0.8.0-2~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.8.0-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 01 Apr 2015 14:00:22 +0200
+
+ignition-transport (0.8.0-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.8.0-1 release
+
+ -- Carlos Agüero <caguero@osrfoundation.org>  Tue, 31 Mar 2015 14:23:25 -0700
+
+ignition-transport (0.7.0-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.7.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 19 Feb 2015 23:22:11 +0100
+
+ignition-transport (0.6.0-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.6.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 29 Jan 2015 00:01:36 +0100
+
+ignition-transport (0.5.0-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.5.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 23 Dec 2014 20:29:16 +0100
+
+ignition-transport (0.4.4-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.4.4-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 06 Nov 2014 14:33:48 -0800
+
+ignition-transport (0.4.3-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.4.3-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 04 Nov 2014 13:51:24 -0800
+
+ignition-transport (0.4.2-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.4.2-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 03 Nov 2014 18:32:36 -0800
+
+ignition-transport (0.4.1-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.4.1-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 29 Oct 2014 09:51:48 -0700
+
+ignition-transport (0.4.0-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.4.0 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Mon, 27 Oct 2014 18:12:09 -0700
+
+ignition-transport (0.3.1-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 0.3.1-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 14 Aug 2014 01:27:38 +0200
+
+ignition-transport (0.3.0-1~trusty) trusty; urgency=low
+
+  * ignition-transport 0.3.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 12 Aug 2014 19:23:10 +0200
