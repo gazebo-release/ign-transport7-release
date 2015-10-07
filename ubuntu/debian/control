@@ -31,7 +31,7 @@ Architecture: all
 Priority: extra
 Section: oldlibs
 Description: transitional dummy package
-This is a transitional dummy package. It can safely be removed.
+  This is a transitional dummy package. It can safely be removed.
 
 Package: libignition-transport0-dev
 Architecture: any
