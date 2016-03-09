@@ -1,3 +1,9 @@
+ignition-transport (1.1.0-1~trusty) trusty; urgency=medium
+
+  * ignition-transport 1.1.0-1 release
+
+ -- Carlos Aguero <caguero@osrfoundation.org>  Tue, 08 Mar 2016 16:14:13 -0700
+
 ignition-transport (1.0.1-1~trusty) trusty; urgency=medium
 
   * ignition-transport 1.0.1-1 release
