@@ -1,4 +1,4 @@
-ignition-transport (1.2.0-1~trusty) trusty; urgency=medium
+ignition-transport (1.2.0-1~xenial) xenial; urgency=medium
 
   * ignition-transport 1.2.0-1 release
 
