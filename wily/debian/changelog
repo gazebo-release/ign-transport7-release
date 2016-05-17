@@ -1,3 +1,9 @@
+ignition-transport (1.2.0-2~wily) wily; urgency=medium
+
+  * ignition-transport 1.2.0-2 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 17 May 2016 19:43:47 +0200
+
 ignition-transport (1.2.0-1~wily) wily; urgency=medium
 
   * ignition-transport 1.2.0-1 release
