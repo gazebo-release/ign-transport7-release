@@ -14,8 +14,8 @@ Build-Depends: cmake,
                protobuf-compiler,
                uuid-dev,
                libzmq3-dev (>= 3.0.0)
-Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-transport-release
-Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-transport-release
+Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-transport2-release
+Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-transport2-release
 Homepage: https://bitbucket.org/ignitionrobotics/ign-transport
 
 Package: libignition-transport2
