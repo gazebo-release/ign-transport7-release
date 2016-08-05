@@ -1,3 +1,9 @@
+ignition-transport2 (2.0.0-1~trusty) trusty; urgency=medium
+
+  * ignition-transport2 2.0.0-1 release
+
+ -- Carlos Aguero <caguero@osrfoundation.org>  Fri, 05 Aug 2016 23:22:21 +0200
+
 ignition-transport2 (1.9.9-1~trusty) trusty; urgency=medium
 
   * ignition-transport 1.3.0-1 release
