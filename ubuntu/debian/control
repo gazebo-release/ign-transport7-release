@@ -1,4 +1,4 @@
-Source: ignition-transport2
+Source: ignition-transport3
 Standards-Version: 3.9.4
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
@@ -14,11 +14,11 @@ Build-Depends: cmake,
                protobuf-compiler,
                uuid-dev,
                libzmq3-dev (>= 3.0.0)
-Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-transport2-release
-Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-transport2-release
+Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-transport3-release
+Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-transport3-release
 Homepage: https://bitbucket.org/ignitionrobotics/ign-transport
 
-Package: libignition-transport2
+Package: libignition-transport3
 Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
@@ -26,10 +26,10 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Transport Library - Shared library
 
-Package: libignition-transport2-dev
+Package: libignition-transport3-dev
 Architecture: any
 Section: libdevel
-Depends: libignition-transport2 (= ${binary:Version}),
+Depends: libignition-transport3 (= ${binary:Version}),
          uuid-dev,
          libzmq3-dev (>= 3.0.0),
          libignition-msgs-dev,
@@ -37,12 +37,12 @@ Depends: libignition-transport2 (= ${binary:Version}),
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Development files
 
-Package: libignition-transport2-dbg
+Package: libignition-transport3-dbg
 Architecture: any
 Section: debug
 Priority: extra
 Depends:
-     libignition-transport2 (= ${binary:Version}),
+     libignition-transport3 (= ${binary:Version}),
      ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Debugging symbols
