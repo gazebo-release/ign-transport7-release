@@ -1,17 +1,6 @@
-ignition-transport2 (2.1.0-1~xenial) xenial; urgency=medium
+ignition-transport3 (3.0.0-1~xenial) xenial; urgency=medium
 
-  * ignition-transport2 2.1.0-1 release
+  * ignition-transport3 3.0.0-1 release
 
- -- Carlos Aguero <caguero@osrfoundation.org>  Wed, 05 Oct 2016 13:17:47 -0700
+ -- Nate Koenig <natekoenig@gmail.com>  Fri, 16 Dec 2016 06:46:21 -0700
 
-ignition-transport2 (2.0.0-1~xenial) xenial; urgency=medium
-
-  * ignition-transport2 2.0.0-1 release
-
- -- Carlos Aguero <caguero@osrfoundation.org>  Fri, 05 Aug 2016 23:22:22 +0200
-
-ignition-transport2 (1.9.9-1~xenial) xenial; urgency=medium
-
-  * ignition-transport 1.3.0-1 release
-
- -- Carlos Aguero <caguero@osrfoundation.org>  Wed, 20 Jul 2016 11:09:37 -0700
