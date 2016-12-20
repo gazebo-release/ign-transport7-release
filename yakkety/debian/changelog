@@ -4,9 +4,3 @@ ignition-transport3 (3.0.0-2~yakkety) yakkety; urgency=medium
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 20 Dec 2016 14:03:28 +0100
 
-ignition-transport3 (3.0.0-1~yakkety) yakkety; urgency=medium
-
-  * ignition-transport3 3.0.0-1 release
-
- -- Nate Koenig <natekoenig@gmail.com>  Fri, 16 Dec 2016 06:46:21 -0700
-
