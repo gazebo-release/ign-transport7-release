@@ -1,3 +1,9 @@
+ignition-transport3 (3.1.0-1~xenial) xenial; urgency=medium
+
+  * ignition-transport3 3.1.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Sun, 03 Dec 2017 21:22:07 +0100
+
 ignition-transport3 (3.0.1-2~xenial) xenial; urgency=medium
 
   * ignition-transport3 3.0.1-2 release
