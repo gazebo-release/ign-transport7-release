@@ -1,7 +1,6 @@
-ignition-transport3 (3.1.0-1~trusty) trusty; urgency=medium
+ignition-transport4 (4.0.0~pre1-1~trusty) trusty; urgency=medium
 
-  * ignition-transport3 3.1.0-1 release
+  * ignition-transport4 4.0.0~pre1-1 release
 
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Sun, 03 Dec 2017 21:22:08 +0100
-
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 19 Jan 2018 02:01:52 +0100
 
