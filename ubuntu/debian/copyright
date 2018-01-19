@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: igntransport3
+Upstream-Name: igntransport4
 Upstream-Contact: gazebo-list@gazebosim.org
-Source: https://bitbucket.org/ignitionrobotics/ign-transport
+Source: https://bitbucket.org/ignitionrobotics/ign-transpor4
 
 Files: *
 Copyright: 2014 Open Source Robotics Foundation
