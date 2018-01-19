@@ -4,27 +4,4 @@ ignition-transport3 (3.1.0-1~trusty) trusty; urgency=medium
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Sun, 03 Dec 2017 21:22:08 +0100
 
-ignition-transport3 (3.0.1-2~trusty) trusty; urgency=medium
-
-  * ignition-transport3 3.0.1-2 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 19 Jan 2017 14:59:15 +0100
-
-ignition-transport3 (3.0.1-1~trusty) trusty; urgency=medium
-
-  * ignition-transport3 3.0.1-1 release
-
- -- Carlos Aguero <caguero@osrfoundation.org>  Mon, 09 Jan 2017 23:51:09 +0100
-
-ignition-transport3 (3.0.0-2~trusty) trusty; urgency=medium
-
-  * ignition-transport3 3.0.0-2 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 20 Dec 2016 14:03:28 +0100
-
-ignition-transport3 (3.0.0-1~trusty) trusty; urgency=medium
-
-  * ignition-transport3 3.0.0-1 release
-
- -- Nate Koenig <natekoenig@gmail.com>  Fri, 16 Dec 2016 06:46:21 -0700
 
