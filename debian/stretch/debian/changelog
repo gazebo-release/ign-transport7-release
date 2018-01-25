@@ -1,3 +1,9 @@
+ignition-transport4 (4.0.0-1~stretch) stretch; urgency=medium
+
+  * ignition-transport4 4.0.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 25 Jan 2018 21:59:04 +0100
+
 ignition-transport3 (4.0.0~pre1-1~stretch) stretch; urgency=medium
 
   * ignition-transport3 4.0.0~pre1-1 release
