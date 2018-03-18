@@ -11,6 +11,7 @@ Build-Depends: cmake,
                libprotoc-dev,
                libprotobuf-dev,
                libignition-msgs-dev,
+               libignition-cmake-dev,
                protobuf-compiler,
                uuid-dev,
                libzmq3-dev (>= 3.0.0)
@@ -33,6 +34,7 @@ Depends: libignition-transport4 (= ${binary:Version}),
          uuid-dev,
          libzmq3-dev (>= 3.0.0),
          libignition-msgs-dev,
+         libignition-cmake-dev,
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Development files
