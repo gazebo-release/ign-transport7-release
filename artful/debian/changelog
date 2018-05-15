@@ -1,18 +1,5 @@
-ignition-transport4 (4.0.0-2~artful) artful; urgency=medium
+ignition-transport5 (4.0.0-2~artful) artful; urgency=medium
 
   * ignition-transport4 4.0.0-2 release
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 26 Jan 2018 00:38:58 +0100
-
-ignition-transport4 (4.0.0-1~artful) artful; urgency=medium
-
-  * ignition-transport4 4.0.0-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 25 Jan 2018 21:59:05 +0100
-
-ignition-transport4 (4.0.0~pre1-1~artful) artful; urgency=medium
-
-  * ignition-transport4 4.0.0~pre1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 19 Jan 2018 02:01:52 +0100
-
