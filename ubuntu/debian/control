@@ -6,6 +6,7 @@ Priority: extra
 Build-Depends: cmake,
                pkg-config,
                debhelper (>= 7.0.50~),
+               doxygen,
                python,
                ruby-ronn,
                libprotoc-dev,
