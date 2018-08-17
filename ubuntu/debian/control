@@ -1,27 +1,27 @@
-Source: ignition-transport5
+Source: ignition-transport6
 Standards-Version: 3.9.4
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
 Priority: extra
 Build-Depends: cmake,
                pkg-config,
-               debhelper (>= 7.0.50~),
+               debhelper (>= 11),
                doxygen,
                python,
                ruby-ronn,
                libprotoc-dev,
                libprotobuf-dev,
-               libignition-msgs2-dev,
-               libignition-cmake1-dev,
+               libignition-msgs3-dev,
+               libignition-cmake2-dev,
                libignition-tools-dev,
                protobuf-compiler,
                uuid-dev,
                libzmq3-dev (>= 3.0.0)
-Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-transport5-release
-Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-transport5-release
+Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-transport6-release
+Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-transport6-release
 Homepage: https://bitbucket.org/ignitionrobotics/ign-transport
 
-Package: libignition-transport5
+Package: libignition-transport6
 Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
@@ -29,25 +29,15 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Transport Library - Shared library
 
-Package: libignition-transport5-dev
+Package: libignition-transport6-dev
 Architecture: any
 Section: libdevel
-Depends: libignition-transport5 (= ${binary:Version}),
+Depends: libignition-transport6 (= ${binary:Version}),
          uuid-dev,
          libzmq3-dev (>= 3.0.0),
-         libignition-msgs2-dev,
-         libignition-cmake1-dev,
+         libignition-msgs3-dev,
+         libignition-cmake2-dev,
          libignition-tools-dev,
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Development files
-
-Package: libignition-transport5-dbg
-Architecture: any
-Section: debug
-Priority: extra
-Depends:
-     libignition-transport5 (= ${binary:Version}),
-     ${misc:Depends}
-Multi-Arch: same
-Description: Ignition Robotics transport Library - Debugging symbols
