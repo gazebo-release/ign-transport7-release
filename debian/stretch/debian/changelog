@@ -1,3 +1,9 @@
+ignition-transport6 (6.0.0~pre2-1~stretch) stretch; urgency=medium
+
+  * ignition-transport6 6.0.0~pre2-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Tue, 11 Sep 2018 10:49:51 -0700
+
 ignition-transport6 (6.0.0~pre1-1~stretch) stretch; urgency=medium
 
   * ignition-transport6 6.0.0~pre1-1 release
