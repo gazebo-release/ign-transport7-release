@@ -2,5 +2,6 @@ usr/include/*
 usr/lib/*/*.so
 usr/lib/*/pkgconfig/*.pc
 usr/lib/*/cmake/ignition-transport*/*
+usr/share/ignition/*
 usr/share/ignition/*/*
 usr/lib/ruby/ignition/*.rb
