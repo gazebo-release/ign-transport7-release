@@ -32,6 +32,8 @@ Depends: libignition-transport6 (= ${binary:Version}),
          libignition-cmake2-dev,
          libignition-tools-dev,
          ${misc:Depends}
+Breaks: libignition-transport6-dev (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6-dev (<< 6.0.0~pre2-2)
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Core Dev files
 
@@ -40,6 +42,8 @@ Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Breaks: libignition-transport6 (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6 (<< 6.0.0~pre2-2)
 Multi-Arch: same
 Description: Ignition Robotics Transport Library - Shared library
 
@@ -51,6 +55,8 @@ Depends: libsqlite3-dev,
          libignition-transport6-core-dev,
          libignition-transport6-log (= ${binary:Version}),
          ${misc:Depends}
+Breaks: libignition-transport6-dev (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6-dev (<< 6.0.0~pre2-2)
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Core Dev
 
@@ -59,6 +65,8 @@ Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends}
+Breaks: libignition-transport6 (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6 (<< 6.0.0~pre2-2)
 Multi-Arch: same
 Description: Ignition Robotics Transport Library - Log Shared library
 
@@ -68,5 +76,7 @@ Section: libdevel
 Depends: libignition-transport6-core-dev,
          libignition-transport6-log-dev,
          ${misc:Depends}
+Breaks: libignition-transport6-dev (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6-dev (<< 6.0.0~pre2-2)
 Multi-Arch: same
 Description: Ignition Robotics transport Library - Metapackage
