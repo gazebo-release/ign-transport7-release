@@ -4,3 +4,4 @@ usr/lib/*/cmake/ignition-transport[0-99]-log/*
 usr/lib/*/libignition-transport[0-99]-log.so
 usr/lib/*/pkgconfig/ignition-transport[0-99]-log.pc
 usr/lib/ruby/ignition/cmdlog[0-99].rb
+usr/share/ignition/*
