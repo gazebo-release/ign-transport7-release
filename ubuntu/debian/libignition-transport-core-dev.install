@@ -5,3 +5,4 @@ usr/lib/*/libignition-transport[0-99].so
 usr/lib/*/pkgconfig/ignition-transport[0-99].pc
 usr/lib/*/cmake/ignition-transport[0-99]/ignition-transport*
 usr/lib/ruby/ignition/cmdtransport[0-99].rb
+usr/share/ignition/transport[0-99].yaml
