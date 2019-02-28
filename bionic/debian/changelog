@@ -1,3 +1,9 @@
+ignition-transport6 (6.0.0-1~bionic) bionic; urgency=medium
+
+  * ignition-transport6 6.0.0-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 28 Feb 2019 23:31:45 +0000
+
 ignition-transport6 (6.0.0~pre2-3~bionic) bionic; urgency=medium
 
   * ignition-transport6 6.0.0~pre2-3 release
