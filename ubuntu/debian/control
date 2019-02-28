@@ -22,24 +22,61 @@ Vcs-Browser: https://bitbucket.org/ignitionrobotics/ign-transport6-release
 Vcs-Hg: https://bitbucket.org/ignitionrobotics/ign-transport6-release
 Homepage: https://bitbucket.org/ignitionrobotics/ign-transport
 
-Package: libignition-transport6
-Architecture: any
-Section: libs
-Pre-Depends: ${misc:Pre-Depends}
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Multi-Arch: same
-Description: Ignition Robotics Transport Library - Shared library
-
-Package: libignition-transport6-dev
+Package: libignition-transport6-core-dev
 Architecture: any
 Section: libdevel
 Depends: libignition-transport6 (= ${binary:Version}),
          uuid-dev,
          libzmq3-dev (>= 3.0.0),
-         libsqlite3-dev,
          libignition-msgs3-dev,
          libignition-cmake2-dev,
          libignition-tools-dev,
          ${misc:Depends}
+Breaks: libignition-transport6-dev (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6-dev (<< 6.0.0~pre2-2)
 Multi-Arch: same
-Description: Ignition Robotics transport Library - Development files
+Description: Ignition Robotics transport Library - Core Dev files
+
+Package: libignition-transport6
+Architecture: any
+Section: libs
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Breaks: libignition-transport6 (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6 (<< 6.0.0~pre2-2)
+Multi-Arch: same
+Description: Ignition Robotics Transport Library - Shared library
+
+Package: libignition-transport6-log-dev
+Architecture: any
+Section: libdevel
+Depends: libsqlite3-dev,
+         libignition-cmake2-dev,
+         libignition-transport6-core-dev,
+         libignition-transport6-log (= ${binary:Version}),
+         ${misc:Depends}
+Breaks: libignition-transport6-dev (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6-dev (<< 6.0.0~pre2-2)
+Multi-Arch: same
+Description: Ignition Robotics transport Library - Core Dev
+
+Package: libignition-transport6-log
+Architecture: any
+Section: libs
+Pre-Depends: ${misc:Pre-Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Breaks: libignition-transport6 (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6 (<< 6.0.0~pre2-2)
+Multi-Arch: same
+Description: Ignition Robotics Transport Library - Log Shared library
+
+Package: libignition-transport6-dev
+Architecture: any
+Section: libdevel
+Depends: libignition-transport6-core-dev,
+         libignition-transport6-log-dev,
+         ${misc:Depends}
+Breaks: libignition-transport6-dev (<< 6.0.0~pre2-2)
+Replaces: libignition-transport6-dev (<< 6.0.0~pre2-2)
+Multi-Arch: same
+Description: Ignition Robotics transport Library - Metapackage
