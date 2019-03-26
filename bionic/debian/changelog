@@ -1,29 +1,6 @@
-ignition-transport6 (6.0.0-1~bionic) bionic; urgency=medium
+ignition-transport7 (6.0.0-1~bionic) bionic; urgency=medium
 
-  * ignition-transport6 6.0.0-1 release
+  * ignition-transport7 6.0.0-1 release
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 28 Feb 2019 23:31:45 +0000
 
-ignition-transport6 (6.0.0~pre2-3~bionic) bionic; urgency=medium
-
-  * ignition-transport6 6.0.0~pre2-3 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 28 Feb 2019 17:50:43 +0100
-
-ignition-transport6 (6.0.0~pre2-2~bionic) bionic; urgency=medium
-
-  * ignition-transport6 6.0.0~pre2-2 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 27 Sep 2018 13:39:39 +0200
-
-ignition-transport6 (6.0.0~pre2-1~bionic) bionic; urgency=medium
-
-  * ignition-transport6 6.0.0~pre2-1 release
-
- -- Nate Koenig <nate@osrfoundation.org>  Tue, 11 Sep 2018 10:49:51 -0700
-
-ignition-transport6 (6.0.0~pre1-1~bionic) bionic; urgency=medium
-
-  * ignition-transport6 6.0.0~pre1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 17 Aug 2018 17:20:30 +0000

@@ -1,54 +1,6 @@
-ignition-transport6 (6.0.0-1~sid) sid; urgency=medium
+ignition-transport7 (6.0.0-1~sid) sid; urgency=medium
 
   * ignition-transport6 6.0.0-1 release
 
  -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 28 Feb 2019 23:31:45 +0000
-
-ignition-transport6 (6.0.0~pre2-3~sid) sid; urgency=medium
-
-  * ignition-transport6 6.0.0~pre2-3 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 28 Feb 2019 17:50:44 +0100
-
-ignition-transport6 (6.0.0~pre2-2~sid) sid; urgency=medium
-
-  * ignition-transport6 6.0.0~pre2-2 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 27 Sep 2018 13:39:40 +0200
-
-ignition-transport6 (6.0.0~pre2-1~sid) sid; urgency=medium
-
-  * ignition-transport6 6.0.0~pre2-1 release
-
- -- Nate Koenig <nate@osrfoundation.org>  Tue, 11 Sep 2018 10:49:51 -0700
-
-ignition-transport6 (6.0.0~pre1-1~sid) sid; urgency=medium
-
-  * ignition-transport6 6.0.0~pre1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 17 Aug 2018 17:20:31 +0000
-
-ignition-transport5 (5.0.0~pre1-1~sid) sid; urgency=medium
-
-  * ignition-transport5 5.0.0~pre1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 16 May 2018 01:45:50 +0200
-
-ignition-transport4 (4.0.0-2~sid) sid; urgency=medium
-
-  * ignition-transport4 4.0.0-2 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 26 Jan 2018 00:38:58 +0100
-
-ignition-transport4 (4.0.0-1~sid) sid; urgency=medium
-
-  * ignition-transport4 4.0.0-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 25 Jan 2018 21:59:05 +0100
-
-ignition-transport4 (4.0.0~pre1-1~sid) sid; urgency=medium
-
-  * ignition-transport4 4.0.0~pre1-1 release
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Fri, 19 Jan 2018 02:01:52 +0100
 
