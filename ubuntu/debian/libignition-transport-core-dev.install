@@ -1,7 +1,6 @@
 usr/include/ignition/transport[0-99]/ignition/transport.hh
 usr/include/ignition/transport[0-99]/ignition/transport/*.h
 usr/include/ignition/transport[0-99]/ignition/transport/*.hh
-usr/include/ignition/transport[0-99]/ignition/transport/detail/*.h
 usr/include/ignition/transport[0-99]/ignition/transport/detail/*.hh
 usr/lib/*/libignition-transport[0-99].so
 usr/lib/*/pkgconfig/ignition-transport[0-99].pc
