@@ -1,3 +1,9 @@
+ignition-transport7 (7.0.0~pre2-1~bionic) bionic; urgency=medium
+
+  * ignition-transport7 7.0.0~pre2-1 release
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Tue, 14 May 2019 15:23:04 +0200
+
 ignition-transport7 (7.0.0~pre1-1~bionic) bionic; urgency=medium
 
   * ignition-transport7 7.0.0~pre1-1 release
