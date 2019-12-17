@@ -1,3 +1,9 @@
+ignition-transport7 (7.2.0-1~stretch) stretch; urgency=medium
+
+  * ignition-transport7 7.2.0-1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Tue, 17 Dec 2019 11:16:20 -0700
+
 ignition-transport7 (7.1.0-1~stretch) stretch; urgency=medium
 
   * ignition-transport7 7.1.0-1 release
