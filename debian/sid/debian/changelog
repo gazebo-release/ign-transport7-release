@@ -1,3 +1,9 @@
+ignition-transport7 (7.3.0-1~pre1~sid) sid; urgency=medium
+
+  * ignition-transport7 7.3.0-1~pre1 release
+
+ -- Nate Koenig <nate@osrfoundation.org>  Thu, 09 Jan 2020 10:13:04 -0700
+
 ignition-transport7 (7.2.1-1~sid) sid; urgency=medium
 
   * ignition-transport7 7.2.1-1 release
