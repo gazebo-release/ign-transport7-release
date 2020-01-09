@@ -1,6 +1,6 @@
-ignition-transport7 (7.3.0-1~pre1~stretch) stretch; urgency=medium
+ignition-transport7 (7.3.0~pre1-1~stretch) stretch; urgency=medium
 
-  * ignition-transport7 7.3.0-1~pre1 release
+  * ignition-transport7 7.3.0~pre1-1 release
 
  -- Nate Koenig <nate@osrfoundation.org>  Thu, 09 Jan 2020 10:13:04 -0700
 
