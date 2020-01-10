@@ -1,3 +1,9 @@
+ignition-transport7 (7.3.0-1~stretch) stretch; urgency=medium
+
+  * ignition-transport7 7.3.0-1 release
+
+ -- Addizu Z. Taddese <addisu@openrobotics.org>  Fri, 10 Jan 2020 13:14:24 -0600
+
 ignition-transport7 (7.3.0~pre1-1~stretch) stretch; urgency=medium
 
   * ignition-transport7 7.3.0~pre1-1 release
