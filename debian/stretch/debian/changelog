@@ -1,3 +1,9 @@
+ignition-transport7 (7.5.1-1~stretch) stretch; urgency=medium
+
+  * ignition-transport7 7.5.1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Mon, 28 Dec 2020 10:41:42 -0800
+
 ignition-transport7 (7.5.0-1~stretch) stretch; urgency=medium
 
   * ignition-transport7 7.5.0-1 release
